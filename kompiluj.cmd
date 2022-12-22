@@ -1,0 +1,1 @@
+javac -cp CLIPSJNI.jar ExpertSystem.java && pause
